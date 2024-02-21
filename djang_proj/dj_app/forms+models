@@ -1,0 +1,10 @@
+// first we startproject in the directory that we want
+// then we startapp that is make an app
+// then we make templates and static folders and add them in the settings 
+// then we add an app tot he templates and add our html files in it 
+// and we can add our css in the static folder
+// now for building the models we make a models file and then we will link the file in the views.py, urls.py and urls.py of the app
+// then we will populate the db by adding a populate folder. we also have to create a superuser to access the databse
+// then we can print the db stuff using the html files check from the second project for more
+
+// now we create forms

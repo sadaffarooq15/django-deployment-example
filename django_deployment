@@ -1,0 +1,15 @@
+django deplyment host:
+pythonanywhere.com
+
+
+these are some links for hosting the websites:
+
+https://help.pythonanywhere.com/pages/DeployExistingDjangoProject/
+
+https://devcenter.heroku.com/articles/deploying-python
+
+
+https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-django.html
+
+
+https://www.digitalocean.com/community/tutorials/how-to-deploy-a-local-django-app-to-a-vps

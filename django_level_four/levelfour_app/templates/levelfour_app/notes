@@ -1,0 +1,17 @@
+django level 4
+
+
+<!-- <p>it is like a base template which can be used for various htmls.
+    we are gonna add all the ocde we wanna reuse throughout the project in this file for example a nav bar so that we do not have to write code for the navbar on
+    each html each page instead we can use this..</p>
+</p>
+<h5>steps involving for this process is :
+   <ol>
+  <li>find the repetitive parts of the project</li>
+  <li>create a base template of them</li>
+  <li>set the tags in the base template</li>
+  <li>extend and call those tags anywhere</li><br>
+  it is basically inheriting tags and reuse
+  we are gonna use the {%block body_block%}{%endblock%} tags 
+   </ol>
+</h5> -->
